@@ -13,7 +13,7 @@ git clone https://github.com/steviegt6/amoled-cord
 
 **[Cumcord](https://cumcord.com/)**
 - Install Cumstain from the `cumdump`.
-- Manually import the compiled Sass file from [here](https://raw.githubusercontent.com/steviegt6/amoled-cord/main/build/index.css);
+- Manually import the compiled Sass file from [here](https://raw.githubusercontent.com/steviegt6/amoled-cord/main/build/index.css).
 
 ~~**[BetterDiscord](https://betterdiscord.app/)**~~ _(Discontinued, use a better client.)_
 <!-- - [Direct Download](https://betterdiscord.net/ghdl?id=3625) -->
