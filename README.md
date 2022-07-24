@@ -1,20 +1,24 @@
-![banner](https://raw.githubusercontent.com/LuckFire/amoled-cord/main/assets/readme/banner.png) 
+![banner](https://raw.githubusercontent.com/steviegt6/amoled-cord/main/assets/readme/banner.png) 
 
 # AMOLED-Cord
 A simple, no-bullshit AMOLED theme that's nice on your eyes. Lights out baby!
 
-![preview](https://raw.githubusercontent.com/LuckFire/amoled-cord/main/assets/readme/main-preview.png)
+![preview](https://raw.githubusercontent.com/steviet6/amoled-cord/main/assets/readme/main-preview.png)
 
 ## Installation
 For **[Powercord](http://powercord.dev/)** or **[Vizality](https://vizality.com/)** installation, head over to your **Themes folder -> open a terminal of choice**, and paste / enter the following:
 ```
-git clone https://github.com/LuckFire/amoled-cord
+git clone https://github.com/steviegt6/amoled-cord
 ```
 
-**[BetterDiscord](https://betterdiscord.app/)**
+**[Cumcord](https://cumcord.com/)**
+- Install Cumstain from the `cumdump`.
+- Manually import the compiled Sass file from [here](https://raw.githubusercontent.com/steviegt6/amoled-cord/main/build/index.css);
+
+~~**[BetterDiscord](https://betterdiscord.app/)**~~ _(Discontinued, use a better client.)_
 <!-- - [Direct Download](https://betterdiscord.net/ghdl?id=3625) -->
-- [Direct Download](https://github.com/LuckFire/amoled-cord/releases/download/temp-bd-download/AMOLED-Cord.theme.css) <!-- temporary direct download -->
-- [View Source](https://luckfire.github.io/amoled-cord/src/support/compiled.css)
+- ~~[Direct Download](https://github.com/steviegt6/amoled-cord/releases/download/temp-bd-download/AMOLED-Cord.theme.css)~~ <!-- temporary direct download -->
+- ~~[View Source](https://luckfire.github.io/amoled-cord/src/support/compiled.css)~~
 
 **Stylus**
 1. Make sure you have the Stylus browser extension installed.
@@ -23,6 +27,7 @@ git clone https://github.com/LuckFire/amoled-cord
 2. After installing, head over to [this link](https://luckfire.github.io/amoled-cord/src/support/AMOLED-Cord.user.css).
 3. Press the "Install Style" button.
 
+<!-- todo -->
 # Credits
 - **[NYRI4](https://github.com/NYRI4/Discolored)** for [Discolored](https://github.com/NYRI4/Discolored).
 - **[Snapperito](https://github.com/Snapperito/)** for [Settings Icons](https://github.com/snappercord/Settings-Icons).
