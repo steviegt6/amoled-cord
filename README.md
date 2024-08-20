@@ -1,6 +1,6 @@
 # Deprecation Notice
 
-The upstreak fork provides processed `.css` files, and Cumcord is no more. I use my own fork of OpenAsar, so having raw CSS is preferably anyway.
+The upstream fork provides processed `.css` files, and Cumcord is no more. I use my own fork of OpenAsar, so having raw CSS is preferable anyway.
 
 ![banner](https://raw.githubusercontent.com/steviegt6/amoled-cord/main/assets/readme/banner.png) 
 
